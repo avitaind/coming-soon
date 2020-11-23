@@ -1,8 +1,8 @@
 <?php 
-$user = "root";  
-$password = ''; 
-$host = "127.0.0.1";  
-$dbase = "coming-soon";  
+$user = "vaiouser";  
+$password = "VaioIndia@1234"; 
+$host = "localhost";  
+$dbase = "vaio2";  
 $table = "subscribe";  
  
 $email= $_POST['email']; 
